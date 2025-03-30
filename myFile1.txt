@@ -3,3 +3,5 @@ Hello Git
 updating this file after first commit
 
 [Check Push on cloned]
+
+{Merging to Main from cloned}
